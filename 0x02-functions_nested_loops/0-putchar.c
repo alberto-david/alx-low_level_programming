@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * main - writes characters
- * return: 0 show success 
+ * main - Prints putchar
+ * Return :always 0 
  * 
- * / 
+ */ 
  int main(void)
 {
 	_putchar('_');
