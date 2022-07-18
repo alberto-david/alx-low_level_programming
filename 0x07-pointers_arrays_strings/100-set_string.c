@@ -1,10 +1,8 @@
 #include "alx.h"
-
 /**
- * set_string - sets the value of a pointer to a char
- * @s: source adress.
- * @to: target adress.
- * Return: no return.
+ * set_string -  sets a string
+ * @s: string to set
+ * @to: value to set to
  */
 void set_string(char **s, char *to)
 {
